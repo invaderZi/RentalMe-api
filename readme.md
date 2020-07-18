@@ -46,8 +46,8 @@ the default value was set to make it easier for you to get up and running with t
 
 On Mac:
 
-    export vidly_jwtPrivateKey=yourKey
+    export rentalme_jwtPrivateKey=yourKey
 
 On Windows:
 
-    set vidly_jwtPrivateKey=yourKey
+    set rentalme_jwtPrivateKey=yourKey
