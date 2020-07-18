@@ -40,7 +40,7 @@ You should see the list of data.
 
 ### Environment Variables (security settings)
 
-At config/default.json, exists a property called "jwtPrivateKey". This key is used to encrypt JSON web tokens. So, for security reasons, this value should be deleted from source control.
+At config/default.json, exists a property called "jwtPrivateKey". This key is used to encrypt JSON web tokens. So, for security reasons, this value should be empty at source code file.
 
 the default value was set to make it easier for you to get up and running with this project. For a production scenario, you should delete this value and store this key as an environment variable.
 
